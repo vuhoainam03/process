@@ -1,0 +1,17 @@
+C:\Users\vuhoa\source\repos\process_management\process_management\obj\Debug\net6.0-windows\process_management.Home.resources
+C:\Users\vuhoa\source\repos\process_management\process_management\obj\Debug\net6.0-windows\process_management.csproj.GenerateResource.cache
+C:\Users\vuhoa\source\repos\process_management\process_management\obj\Debug\net6.0-windows\process_management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuhoa\source\repos\process_management\process_management\obj\Debug\net6.0-windows\process_management.AssemblyInfoInputs.cache
+C:\Users\vuhoa\source\repos\process_management\process_management\obj\Debug\net6.0-windows\process_management.AssemblyInfo.cs
+C:\Users\vuhoa\source\repos\process_management\process_management\obj\Debug\net6.0-windows\process_management.csproj.CoreCompileInputs.cache
+C:\Users\vuhoa\source\repos\process_management\process_management\bin\Debug\net6.0-windows\process_management.exe
+C:\Users\vuhoa\source\repos\process_management\process_management\bin\Debug\net6.0-windows\process_management.deps.json
+C:\Users\vuhoa\source\repos\process_management\process_management\bin\Debug\net6.0-windows\process_management.runtimeconfig.json
+C:\Users\vuhoa\source\repos\process_management\process_management\bin\Debug\net6.0-windows\process_management.dll
+C:\Users\vuhoa\source\repos\process_management\process_management\bin\Debug\net6.0-windows\process_management.pdb
+C:\Users\vuhoa\source\repos\process_management\process_management\obj\Debug\net6.0-windows\process_management.dll
+C:\Users\vuhoa\source\repos\process_management\process_management\obj\Debug\net6.0-windows\refint\process_management.dll
+C:\Users\vuhoa\source\repos\process_management\process_management\obj\Debug\net6.0-windows\process_management.pdb
+C:\Users\vuhoa\source\repos\process_management\process_management\obj\Debug\net6.0-windows\process_management.genruntimeconfig.cache
+C:\Users\vuhoa\source\repos\process_management\process_management\obj\Debug\net6.0-windows\ref\process_management.dll
+C:\Users\vuhoa\source\repos\process_management\process_management\obj\Debug\net6.0-windows\process_management.ShowProcessing.resources
